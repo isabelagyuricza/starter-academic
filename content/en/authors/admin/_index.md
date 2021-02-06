@@ -10,7 +10,7 @@ role: Research Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Jackson Laboratory
+- name: Churchill Lab at The Jackson Laboratory
   url: https://www.jax.org
 
 # Short bio (displayed in user profile at end of posts)
