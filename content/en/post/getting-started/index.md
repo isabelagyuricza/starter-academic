@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+#title: The aging heart
+#subtitle: We recently published a paper on eLife describing some of the molecular changes in the aging heart of DO mice. These changes are concordant to what was previously found in different organisms and tissues, suggesting that they are a conservative and systematic feature of the aging process.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+#summary: We recently published a paper on eLife describing some of the molecular changes in the aging heart of DO mice. These changes are concordant to what was previously found in different organisms and tissues, suggesting that they are a conservative and a systematic feature of the aging process.
 
 # Link this post with a project
 projects: []
