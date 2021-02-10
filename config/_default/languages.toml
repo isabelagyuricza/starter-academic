@@ -13,8 +13,8 @@
   contentDir = "content/pt"
   title = "Academia"
   [pt.params]
-   description = "Site description in Chinese..."
+   description = "Descrição do site em português-br."
   [[pt.menu.main]]
-    name = "Wo"
+    name = "Isabela Gerdes Gyuricza"
     url = "#about"
     weight = 1
