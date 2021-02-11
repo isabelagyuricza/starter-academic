@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc
+  - course: MSc in Genetics
     institution: University of São Paulo
     year: 2019
   - course: BSc in Biology
