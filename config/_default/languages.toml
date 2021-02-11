@@ -20,20 +20,20 @@
   url = "#about"
   weight = 10
 
+  [[pt.menu.main]]
+  name = "Publicações"
+  url = "#featured"
+  weight = 20
+
  [[pt.menu.main]]
  name = "Postagens"
  url = "#posts"
- weight = 20
+ weight = 30
 
  #[[pt.menu.main]]
  # name = "Projetos"
  # url = "#projects"
- # weight = 30
-
- [[pt.menu.main]]
-  name = "Publicações"
-  url = "#featured"
-  weight = 50
+ # weight = 50
 
  [[pt.menu.main]]
   name = "Contato"
