@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Mestrado em Genética
+  - course: Mestrado em Ciências
     institution: Universidade de São Paulo
     year: 2019
   - course: Bacharel em Ciências Biológicas
@@ -53,10 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-
-- icon: cv
-icon_pack: ai
-link: media/resume.pdf
+#- icon: cv
+#icon_pack: ai
+#link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -11,10 +11,39 @@
 [pt]
   languageCode = "pt"
   contentDir = "content/pt"
-  title = "Academia"
+  title = "Isabela Gerdes Gyuricza"
   [pt.params]
-   description = "Descrição do site em português-br."
+   description = ""
+
   [[pt.menu.main]]
-    name = "Isabela Gerdes Gyuricza"
-    url = "#about"
-    weight = 1
+  name = "Página inicial"
+  url = "#about"
+  weight = 10
+
+ [[pt.menu.main]]
+ name = "Postagens"
+ url = "#posts"
+ weight = 20
+
+ #[[pt.menu.main]]
+ # name = "Projetos"
+ # url = "#projects"
+ # weight = 30
+
+ [[pt.menu.main]]
+  name = "Publicações"
+  url = "#featured"
+  weight = 50
+
+ [[pt.menu.main]]
+  name = "Contato"
+  url = "#contact"
+  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+[[pt.menu.main]]
+name = "Curriculum Vitae"
+url = "CV/resume.pdf"
+weight = 70
+
